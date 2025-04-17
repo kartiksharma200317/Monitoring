@@ -1,3 +1,8 @@
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <img src="/assets/Grafana.png" alt="Grafana Logo" style="width: 200px; height: auto;">
+    <img src="/assets/Prometheus.png" alt="Prometheus Logo" style="width: 200px; height: auto;">
+</div>
+
 # Monitoring Stack with Prometheus and Grafana
 
 Created by Raghav Agarwal
